@@ -1,0 +1,31 @@
+#one{
+    background-color: black;
+    height: 130px;
+    width: 100%;
+}
+#two{
+    background-color:  cyan;
+    height: 300px;
+    width: 300px;
+    margin-top: 4px;
+}
+#lol1{
+    border: solid 5px red;
+    margin-top: 320px;
+}
+#lol2{
+    border: solid 5px red;
+    
+}
+#three{
+    background-color:  cyan;
+    height: 300px;
+    width: 300px;
+    margin-top: 4px;
+}
+#for{
+    background-color:  cyan;
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+}
